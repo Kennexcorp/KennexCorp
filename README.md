@@ -1,0 +1,2 @@
+# KennexCorp
+Just Personal Projects
